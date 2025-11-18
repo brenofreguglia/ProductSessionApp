@@ -1,0 +1,24 @@
+{
+  "name": "productsessionapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenofreguglia/ProductSessionApp.git"
+  },
+  "author": "Breno Freguglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenofreguglia/ProductSessionApp/issues"
+  },
+  "homepage": "https://github.com/brenofreguglia/ProductSessionApp#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
